@@ -10,6 +10,6 @@
 Nama  : Hana Kamila <br>
 Kelas : XIRPL2<br>
 Absen : 08<br>
-NIS   : 4719/1438.070
+NIS   : 4719/1438.070<br>
 Nama Sekolah  : SMK TELKOM MALANG
 </p>
